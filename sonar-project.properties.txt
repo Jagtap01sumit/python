@@ -1,0 +1,4 @@
+sonar.projectKey=sumit
+sonar.projectName=Dipak-Project-1 
+sonar.projectVersion=1.0 
+sonar.projectBaseDir=.
